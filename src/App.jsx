@@ -106,8 +106,8 @@ function App() {
           <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-4s">
             <ProfileCard
               name="Trương Anh Quân"
-              title="Full-stack developer"
-              handle="QuPorsche"
+              title="Web Developer developer"
+              handle="AnhQuan_Trwng"
               status="Online"
               contactText="Contact Me"
               avatarUrl="./assets/anhquan.jpg"
@@ -129,7 +129,7 @@ function App() {
                 </h2>
 
                 <BlurText
-                  text="I’m Trương Anh Quân, a full-stack developer passionate about building modern, high-performance applications with an intuitive user experience. I enjoy working with the latest technologies like Artificial Intelligence, Machine Learning, and cloud-based development, blending creativity with precision to deliver impactful solutions. With over three years of experience and more than 20 completed projects, I’m committed to helping users and businesses grow in the digital era through functional, aesthetic, and scalable digital products."
+                  text="I’m Trương Anh Quân, a passionate Web Developer focused on building modern, high-performance applications with an intuitive user experience. I enjoy blending creativity with precision to deliver impactful web solutions. As a proactive learner, I am always eager to explore new technologies and take on technical challenges. I am committed to helping users and businesses grow in the digital era through functional, aesthetic, and stable digital products."
                   delay={150}
                   animateBy="words"
                   direction="top"
@@ -151,7 +151,7 @@ function App() {
                   </div>
                   <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600" data-aos-once="true">
                     <h1 className="text-3xl md:text-4xl mb-1">
-                      2.93<span className="text-violet-500">/4.00</span>
+                      3.00<span className="text-violet-500">/4.00</span>
                     </h1>
                     <p>GPA</p>
                   </div>

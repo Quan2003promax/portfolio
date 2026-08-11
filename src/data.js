@@ -8,7 +8,6 @@ export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
-import Tools3 from "/assets/tools/nextjs.png";
 import Tools4 from "/assets/tools/tailwind.png";
 import Tools5 from "/assets/tools/bootstrap.png";
 import Tools6 from "/assets/tools/js.png";
@@ -42,40 +41,13 @@ export const listTools = [
     ket: "Framework",
     dad: "200",
   },
-  {
-    id: 3,
-    gambar: Tools3,
-    nama: "Next JS",
-    ket: "Framework",
-    dad: "300",
-  },
-  {
-    id: 4,
-    gambar: Tools4,
-    nama: "Tailwind CSS",
-    ket: "Framework",
-    dad: "400",
-  },
-  {
-    id: 5,
-    gambar: Tools5,
-    nama: "Bootstrap",
-    ket: "Framework",
-    dad: "500",
-  },
+  
   {
     id: 6,
     gambar: Tools6,
     nama: "Javascript",
     ket: "Language",
     dad: "600",
-  },
-  {
-    id: 7,
-    gambar: Tools7,
-    nama: "Node JS",
-    ket: "Javascript Runtime",
-    dad: "700",
   },
   {
     id: 11,
@@ -99,46 +71,11 @@ export const listTools = [
     dad: "800",
   },
   {
-    id: 9,
-    gambar: Tools9,
-    nama: "Adobe Photoshop",
-    ket: "Design App",
-    dad: "900",
-  },
-  {
-    id: 13,
-    gambar: Tools13,
-    nama: "Framer",
-    ket: "Design App",
-    dad: "900",
-  },
-  {
     id: 10,
     gambar: Tools10,
     nama: "Canva",
     ket: "Design App",
     dad: "1000",
-  },
-  {
-    id: 14,
-    gambar: Tools14,
-    nama: "HTML",
-    ket: "Language",
-    dad: "1400",
-  },
-  {
-    id: 15,
-    gambar: Tools15,
-    nama: "CSS",
-    ket: "Language",
-    dad: "1500",
-  },
-  {
-    id: 16,
-    gambar: Tools16,
-    nama: "TypeScript",
-    ket: "Language",
-    dad: "1600",
   },
   {
     id: 17,
