@@ -139,7 +139,6 @@ export const listProyek = [
   url: "https://ninhbinh.edu.vn/",
   dad: "500",
   },
-  
   {
     id: 6,
     image: Anhquan6,
