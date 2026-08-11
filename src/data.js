@@ -78,7 +78,7 @@ export const listTools = [
 
 import Anhquan1 from "/assets/anhquan/anhquan1.png";
 import Anhquan2 from "/assets/anhquan/anhquan2.png";
-import anhquan3 from "/assets/anhquan/anhquan3.png";
+import Anhquan3 from "/assets/anhquan/anhquan3.png";
 import Anhquan4 from "/assets/anhquan/anhquan4.png";
 import Anhquan5 from "/assets/anhquan/anhquan5.png";
 import Anhquan6 from "/assets/anhquan/anhquan6.png";
