@@ -82,6 +82,7 @@ import Anhquan3 from "/assets/anhquan/anhquan3.png";
 import Anhquan4 from "/assets/anhquan/anhquan4.png";
 import Anhquan5 from "/assets/anhquan/anhquan5.png";
 import Anhquan6 from "/assets/anhquan/anhquan6.png";
+import Anhquan7 from "/assets/anhquan/anhquan7.png";
 
 export const listProyek = [
   {
@@ -138,6 +139,17 @@ export const listProyek = [
   gradient: "linear-gradient(145deg, #3B82F6, #000)",
   url: "https://ninhbinh.edu.vn/",
   dad: "500",
+  },
+  {
+    id: 7,
+    image: Anhquan7,
+    title: "Provincial Educational Portal",
+    subtitle: "Contributed as a Tester and Business Analyst for the Dak Lak Department of Education portal.",
+    fullDescription: "Contributed to the official web portal of the Dak Lak Department of Education and Training in the roles of Tester and Business Analyst. Conducted thorough system testing, identified technical discrepancies, and ensured all functionalities met strict governmental standards. Analyzed system requirements and documented operational processes to guarantee absolute accuracy and platform stability.",
+    borderColor: "#10B981",
+    gradient: "linear-gradient(180deg, #10B981, #000)",
+    url: "https://daklak.edu.vn/",
+    dad: "600",
   },
   {
     id: 6,
