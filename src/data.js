@@ -141,7 +141,7 @@ export const listProyek = [
   dad: "500",
   },
   {
-    id: 7,
+    id: 6,
     image: Anhquan7,
     title: "Provincial Educational Portal",
     subtitle: "Contributed as a Tester and Business Analyst for the Dak Lak Department of Education portal.",
@@ -152,7 +152,7 @@ export const listProyek = [
     dad: "600",
   },
   {
-    id: 6,
+    id: 7,
     image: Anhquan6,
     title: "Wordpress Coffee Shop Website",
     subtitle: "A fully functional website designed for a coffee shop, enabling...",

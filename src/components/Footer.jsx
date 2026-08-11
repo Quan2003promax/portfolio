@@ -24,7 +24,7 @@ const Footer = () => {
           <a href="https://github.com/Quan2003promax"><i className="ri-github-fill ri-2x"></i></a>
           <a href="https://www.instagram.com/_qqzxje/"><i className="ri-instagram-fill ri-2x"></i></a>
           <a href="https://www.facebook.com/QuPorsche/"><i className="ri-facebook-fill ri-2x"></i></a>
-          <a href="https://www.linkedin.com/in/quporsche/"><i className="ri-linkedin-fill ri-2x"></i></a>
+          <a href="https://www.linkedin.com/in/anhquan-trwng"><i className="ri-linkedin-fill ri-2x"></i></a>
         </div>
 
         {/* Dock - paling bawah di mobile */}

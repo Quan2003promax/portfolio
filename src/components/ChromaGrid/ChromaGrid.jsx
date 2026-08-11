@@ -2,7 +2,6 @@ import { useRef, useEffect } from "react";
 import { gsap } from "gsap";
 import "./ChromaGrid.css";
 
-// Terima `onItemClick` di props
 export const ChromaGrid = ({
   items,
   onItemClick, 
