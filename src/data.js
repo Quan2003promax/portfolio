@@ -17,12 +17,7 @@ import Tools9 from "/assets/tools/ai.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/laravel.png";
 import Tools12 from "/assets/tools/wordpress.png";
-import Tools13 from "/assets/tools/framer.png";
-import Tools14 from "/assets/tools/html.png";
-import Tools15 from "/assets/tools/css.png";
-import Tools16 from "/assets/tools/ts.png";
 import Tools17 from "/assets/tools/php.png";
-import Tools18 from "/assets/tools/vite.png";
 import Tools19 from "/assets/tools/mysql.png";
 
 
@@ -83,13 +78,6 @@ export const listTools = [
     nama: "PHP",
     ket: "Language",
     dad: "1700",
-  },
-  {
-    id: 18,
-    gambar: Tools18,
-    nama: "Vite",
-    ket: "Framework",
-    dad: "1800",
   },
   {
     id: 19,
