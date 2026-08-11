@@ -76,7 +76,7 @@ function App() {
           <div className="animate__animated animate__fadeInUp animate__delay-3s">
             <div className="flex items-center gap-3 mb-6 bg bg-zinc-800 w-fit p-4 rounded-2xl">
               <img src="./assets/anhquan-Photoroom.png" className="w-10 rounded-md" />
-              <q>I will keep – try – to be, like, on a new level every day.</q>
+              <q>Driven by curiosity. Built with precision</q>
             </div>
             <h1 className="text-5xl font-bold mb-6">
               <ShinyText text="Hi I'm Trương Anh Quân" disabled={false} speed={3} className='custom-class' />
@@ -91,7 +91,7 @@ function App() {
             <div className="flex items-center sm:gap-4 gap-2">
               <a
                 href="./assets/TruongAnhQuan-CV.pdf"
-                download="Trương_Anh_Quân_CV.pdf"
+                download="TruongAnhQuan_CV.pdf"
                 className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700 hover:bg-[#222] transition-colors"
               >
                 <ShinyText text="Download CV" disabled={false} speed={3} className="custom-class" />
