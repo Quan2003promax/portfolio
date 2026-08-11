@@ -78,8 +78,8 @@ export const listTools = [
 
 import Anhquan1 from "/assets/anhquan/anhquan1.png";
 import Anhquan2 from "/assets/anhquan/anhquan2.png";
-import Anhquan4 from "/assets/anhquan/anhquan3.png";
-import Anhquan3 from "/assets/anhquan/anhquan4.png";
+import anhquan3 from "/assets/anhquan/anhquan3.png";
+import Anhquan4 from "/assets/anhquan/anhquan4.png";
 import Anhquan5 from "/assets/anhquan/anhquan5.png";
 import Anhquan6 from "/assets/anhquan/anhquan6.png";
 
@@ -107,8 +107,19 @@ export const listProyek = [
     dad: "200",
   },
   {
-    id: 3,
+    id: 4,
     image: Anhquan4,
+    title: "Personal Web Portfolio",
+    subtitle: "An interactive web portfolio showcasing my professional journey...",
+    fullDescription: "An interactive web portfolio showcasing my professional journey, skills, and projects. Designed with a clean yet modern aesthetic, the portfolio highlights my technical expertise in web development, software engineering, and IoT. The site also serves as a central hub for potential employers and collaborators to explore my works, reflecting both my creativity and technical precision.",
+    borderColor: "#10B981",
+    gradient: "linear-gradient(180deg, #10B981, #000)",
+    url: "https://anhquan-portfolio.netlify.app/",
+    dad: "400",
+  },
+  {
+    id: 3,
+    image: Anhquan3,
     title: "Government Web Portal",
     subtitle: "Customized and maintained the official administrative portal for Ea Knop.",
     fullDescription: "Customized and maintained the official web portal for the local government administrative unit of Ea Knop[cite: 20, 21]. Operated using WordPress, PHP, and MySQL, this project focuses on ensuring secure data processing, strict system configurations, and high stability to seamlessly serve local administrative operations.",
@@ -128,17 +139,7 @@ export const listProyek = [
   url: "https://ninhbinh.edu.vn/",
   dad: "500",
   },
-  {
-    id: 4,
-    image: Anhquan3,
-    title: "Personal Web Portfolio",
-    subtitle: "An interactive web portfolio showcasing my professional journey...",
-    fullDescription: "An interactive web portfolio showcasing my professional journey, skills, and projects. Designed with a clean yet modern aesthetic, the portfolio highlights my technical expertise in web development, software engineering, and IoT. The site also serves as a central hub for potential employers and collaborators to explore my works, reflecting both my creativity and technical precision.",
-    borderColor: "#10B981",
-    gradient: "linear-gradient(180deg, #10B981, #000)",
-    url: "https://anhquan-portfolio.netlify.app/",
-    dad: "400",
-  },
+  
   {
     id: 6,
     image: Anhquan6,
