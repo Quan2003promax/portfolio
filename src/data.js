@@ -132,7 +132,7 @@ export const listProyek = [
   {
   id: 5,
   image: Anhquan5,
-  title: "Educational Web Portal",
+  title: "Ninh Binh Educational Portal",
   subtitle: "Maintained and optimized the official educational portal for Ninh Binh province.",
   fullDescription: "Maintained and customized the official educational web portal for Ninh Binh province[cite: 20, 21]. Proactively implemented advanced performance solutions, including the optimization and caching of large-scale RSS feeds from regional schools to significantly reduce server load and improve loading speeds. Ensured 100% stable system operations through seamless database management and WordPress version upgrades.",
   borderColor: "#3B82F6",
@@ -143,7 +143,7 @@ export const listProyek = [
   {
     id: 6,
     image: Anhquan7,
-    title: "Provincial Educational Portal",
+    title: "Dak Lak Educational Portal",
     subtitle: "Contributed as a Tester and Business Analyst for the Dak Lak Department of Education portal.",
     fullDescription: "Contributed to the official web portal of the Dak Lak Department of Education and Training in the roles of Tester and Business Analyst. Conducted thorough system testing, identified technical discrepancies, and ensured all functionalities met strict governmental standards. Analyzed system requirements and documented operational processes to guarantee absolute accuracy and platform stability.",
     borderColor: "#10B981",
